@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-grid-pattern {
+  background-size: 140px 140px;
+  background-image: 
+    linear-gradient(to right, #D4D4D4 1px, transparent 1px),
+    linear-gradient(to bottom, #D4D4D4 1px, transparent 1px);
+}
+
+.hide-scrollbar {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;     /* Firefox */
+}
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;            /* Chrome, Safari and Opera */
+}
+
+.tweet-container {
+  transform: scale(0.9);
+  transform-origin: center;
+}
