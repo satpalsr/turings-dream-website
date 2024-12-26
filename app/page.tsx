@@ -235,7 +235,7 @@ export default function LandingPage() {
                 Expert drop-ins
               </h3>
               <p className="text-base md:text-xl">
-                Regular visits from researchers and hackers at <a href="https://nirantk.com/community/" target="_blank" rel="noopener noreferrer" className="underline">IISc Bangalore</a>,
+                Regular visits from researchers and hackers at <a href="https://iisc.ac.in/" target="_blank" rel="noopener noreferrer" className="underline">IISc Bangalore</a>,
                 the <a href="https://nirantk.com/community/" target="_blank" rel="noopener noreferrer" className="underline">GenAI Bangalore community</a>, and the <a href="https://fifthelephant.in/" target="_blank" rel="noopener noreferrer" className="underline">Fifth Elephant community</a>
               </p>
             </div>
